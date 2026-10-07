@@ -1,0 +1,2 @@
+# Ignoring python virtual environment. All libraries will be listed in the requirements.txt file
+myenv/
